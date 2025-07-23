@@ -39,7 +39,7 @@ project-folder/
 
 ## 📸 Preview
 
-![Landing Page Preview](./assets/preview.png)
+![Landing Page Preview](./1.png)
 
 ## 📃 License
 
