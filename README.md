@@ -2,6 +2,10 @@
 
 This project is a responsive dental offer landing page inspired by Clove Dental’s promotional campaign. It includes a consultation form, special offer cards, FAQs, and a footer — all styled for a clean and professional user experience.
 
+## 🌐 Live Demo
+
+🔗 [Click here to view the live site](https://clove-dental-as.netlify.app)  
+
 ## 📌 Features
 
 - Responsive three-column card layout
